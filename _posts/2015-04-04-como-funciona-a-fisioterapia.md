@@ -3,7 +3,7 @@ layout: default
 title: Como funciona a fisioterapia?
 ---
 
-#{{ page.title }}
+# {{ page.title }}
 
 O objetivo da fisioterapia é ajudar a restaurar a movimentação e função normal do corpo em casos de doenças, lesões, ou deficiências. 
 Assim como tratar problemas específicos, seu fisioterapeuta também pode sugerir maneiras de melhorar seu bem-estar em geral – por exemplo, fazendo exercícios regularmente e mantendo um peso saudável para a sua altura e constituição física. 

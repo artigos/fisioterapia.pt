@@ -3,7 +3,7 @@ layout: default
 title: O que fazem os fisioterapeutas?
 ---
 
-#{{ page.title }}
+# {{ page.title }}
 
 Fisioterapeutas ajudam pessoas afetadas por lesões, doenças, ou deficiências. Alguns das maneiras de lidar com isso são:
 
